@@ -4,8 +4,6 @@
 
 🔭 I developed a prototype for rehabilitation of post stroke of the distal upper limb paralysis, using the Leap Motion Controller that is a hand motion capture sensor, and the Unity3D game engine.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
 <div>
   <a href="https://www.linkedin.com/in/lucasketerson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lketerson&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
