@@ -1,4 +1,4 @@
-## 💚 Olá, meu nome é <strong>Lucas Keterson!</strong>
+## 💚 Hi, my name is <strong>Lucas Keterson!</strong>
 
 > Graduated in Computer Science and currently studying game development.
 
