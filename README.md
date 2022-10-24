@@ -16,6 +16,8 @@
   <img align="center" alt="Lucas Keterson-CS" src="https://img.shields.io/badge/C%23-581845?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Lucas Keterson-HTML" src="https://img.shields.io/badge/HTML-900c3f?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Lucas Keterson-CSS" src="https://img.shields.io/badge/CSS-c70039?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Lucas Keterson-CSS" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img align="center" alt="Lucas Keterson-CSS" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
   
    ## 📩 How to reach me
