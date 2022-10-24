@@ -22,8 +22,6 @@
   
    ## 📩 How to reach me
   <div style="display: inline_block"><br>
-    <a href="https://instagram.com/lketerson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%231bbfa0?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:lucasketersonsk8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23ee1311?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/lucasketerson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
