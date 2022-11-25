@@ -1,6 +1,6 @@
 ## 💚 Hi, my name is <strong>Lucas Keterson!</strong>
 
-> Graduated in Computer Science and currently studying game development.
+> Graduated in Computer Science and currently working as mobile developer.
 
 🔭 I developed a prototype for rehabilitation of the distal upper limb paralysis, using the Leap Motion Controller that is a hand motion capture sensor, and the Unity3D game engine. I'm currently working as a flutter mobile developer and UI designer.
 
