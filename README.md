@@ -19,6 +19,7 @@
   <img align="center" alt="Lucas Keterson-DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center" alt="Lucas Keterson-FLUTTER" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="center" alt="Lucas Keterson-FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img align="center" alt="Lucas Keterson-TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
   
    ## 📩 How to reach me
